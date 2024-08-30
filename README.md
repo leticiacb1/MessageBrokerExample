@@ -66,3 +66,10 @@ In one terminal run teh producer and in the other terminal run the consumer.
 ``` 
 
 Create others consumers and see how they interact with the producer. 
+
+
+<br>
+@2024, Insper. 9° Semester,  Computer Engineering.
+<br>
+
+_Machine Learning Ops & Interviews Discipline_
